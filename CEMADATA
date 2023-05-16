@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>CEMADATA</title>
+
+  <style>
+
+    body {
+
+      font-family: Arial, sans-serif;
+
+      margin: 0;
+
+      padding: 0;
+
+    }
+
+    
+
+    /* Header */
+
+    header {
+
+      background-color: #333;
+
+      color: #fff;
+
+      padding: 20px;
+
+      text-align: center;
+
+    }
+
+    
+
+    /* Main Content */
+
+    .container {
+
+      max-width: 800px;
+
+      margin: 0 auto;
+
+      padding: 20px;
+
+    }
+
+    
+
+    h1 {
+
+      font-size: 24px;
+
+      margin-bottom: 20px;
+
+    }
+
+    
+
+    p {
+
+      margin-bottom: 10px;
+
+    }
+
+    
+
+    /* Footer */
+
+    footer {
+
+      background-color: #333;
+
+      color: #fff;
+
+      padding: 20px;
+
+      text-align: center;
+
+      position: fixed;
+
+      bottom: 0;
+
+      left: 0;
+
+      width: 100%;
+
+    }
+
+    
+
+    /* Communication icon */
+
+    .communication-icon {
+
+      color: #fff;
+
+      font-size: 24px;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>CEMADATA</h1>
+
+  </header>
+
+  
+
+  <div class="container">
+
+    <h1>CEMADATA is a leading data science company that helps organizations make informed decisions by harnessing the power of data.</h1>
+
+    <p>Our team of experts combines deep industry knowledge with cutting-edge data science techniques to provide customized solutions that meet the unique needs of each client.</p>
+
+    
+
+    <h2>Our services</h2>
+
+    <ul>
+
+      <li>Data cleaning</li>
+
+      <li>Data analysis</li>
+
+      <li>Collection management and visualization</li>
+
+      <li>Predictive data-driven modeling</li>
+
+    </ul>
+
+    
+
+    <h2>Team of experienced data scientists</h2>
+
+    <p>Our team of experienced data scientists uses a variety of tools and techniques including machine learning, statistical analysis, and data mining to turn raw data into actionable insights that drive business results.</p>
+
+    
+
+    <h2>Industries we serve</h2>
+
+    <p>We span a range of industries, from education and business to retail and technology, including the government sector. No matter what industry we are dealing with, our goal is always the same: to help organizations make better decisions by leveraging the power of data.</p>
+
+    
+
+    <h2>Contact us</h2>
+
+    <p>At CEMADATA, we are committed to transparency and collaboration. Contact us today to learn more about how we can help you turn your data into actionable insights and drive business success.</p>
+
+  </div>
+
+  
+
+  <footer>
+
+    <a href="tel:+966557206414"><i class="communication-icon">☎</i> +966557206414</a>
+
+    <br>
+
+    <a href="mailto:info@cemadata.com"><i class="communication-icon">✉</i> info@cemadata.com</a>
+
+    <p>Dubai Silicon Oasis, DDP, Building Al, Dubai, United Arab Emirates</p>
+
+  </footer>
+
+</body>
+
+</html>
+
